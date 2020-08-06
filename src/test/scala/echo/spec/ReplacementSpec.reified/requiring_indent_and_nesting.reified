@@ -1,0 +1,12 @@
+FileContents(
+  """something {
+    |  actual <=> SolarSystem(
+    |    Jupiter(
+    |      Ganymede(2634),
+    |      Calisto(2410),
+    |      Io(1822),
+    |      Europa(1561)
+    |    )
+    |  )
+    |}""".stripMargin
+)
